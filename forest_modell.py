@@ -2,7 +2,7 @@ import numpy as np
 import tree_animation
 
 settings = {
-    'number_of_trees':  50,
+    'number_of_trees':  20,
     'gridsize_x':       20,
     'gridsize_y':       20,
     'min_trunk_len':    2,
@@ -16,7 +16,7 @@ settings = {
     'max_treesize':     10
 }
 
-timer = { 'steps' : 50 }
+timer = { 'steps' : 500 }
 
 t = tree_animation.TreeAnimation(settings, timer)
 
