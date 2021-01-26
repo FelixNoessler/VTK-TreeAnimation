@@ -1,1 +1,1 @@
-# python-vtk-tree-animation
+# A model visulaization of forest growth with vtk and python 
