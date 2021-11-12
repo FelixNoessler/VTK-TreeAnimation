@@ -4,6 +4,5 @@ vtk
 .. toctree::
    :maxdepth: 4
 
-   forest_modell
-   setup
+   test_tree_animation
    tree_animation
