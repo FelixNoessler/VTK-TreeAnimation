@@ -1,7 +1,0 @@
-forest\_modell module
-=====================
-
-.. automodule:: forest_modell
-   :members:
-   :undoc-members:
-   :show-inheritance:
